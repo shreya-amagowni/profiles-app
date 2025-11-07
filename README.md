@@ -1,7 +1,9 @@
 # profiles-app
 
-This app is a simple React app built with Vite and React-Bootstrap
-It just displays a Hello React 
+This app is a simple React app built with Vite and React-Bootstrap.
+
+It just displays a Hello React. 
+
 Here is the link: https://shreya-amagowni.github.io/profiles-app/ 
 # React + Vite
 
